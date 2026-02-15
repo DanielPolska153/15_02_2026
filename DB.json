@@ -4,7 +4,8 @@
 		name: "Монитор",
 		desc: "SAMSUNG S24C310EAI",
 		img: "565pe92sqd3txjtf2c3p8i0hewwll7el.jpeg",
-		price: 710,},
+		price: 710,
+	},
 	{
 		id: 1,
 		name: "Монитор",
@@ -111,7 +112,7 @@
 		price: 710,
 	},
 	{
-		id: 16,
+		"id": 16,
 		name: "Монитор",
 		desc: "SAMSUNG S24C310EAI",
 		img: "565pe92sqd3txjtf2c3p8i0hewwll7el.jpeg",
